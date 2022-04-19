@@ -1,1 +1,6 @@
 /*This is where your styles would go for practice.html.*/
+
+.col-md-6 {
+	border: 2px solid red;
+	background-color: lightblue;
+}
